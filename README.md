@@ -3,5 +3,5 @@
 
 ## Screenshots
 
-![Dark Mode](https://i.postimg.cc/X76PrmDR/FP1.jpg)
+![Light Mode](https://i.postimg.cc/Dw2Ygsh5/FP2.jpg)
 
