@@ -1,5 +1,5 @@
 # FP Calculator
- System that calculates function point based on given input.
+ Dekstop application that calculates function point based on given input.
 
 ## Screenshots
 
